@@ -118,6 +118,9 @@ Los videos en Youtube con las grabaciones de las clases.
 
 ## Extras
 
+Una exploración sobre colisiones en [`hashCode`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Object.html#hashCode()) y una implementación simple de Diccionario.
+[INGCOM-UNRN-PII/colisiones](https://github.com/INGCOM-UNRN-PII/colisiones). Para ejemplificar _por que_ no se debe utilizar para implementar [`equals`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Object.html#equals(java.lang.Object))
+
 [Javadoc 21](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
 De uso básico para la cátedra.
 
