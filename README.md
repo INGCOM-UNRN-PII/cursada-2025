@@ -8,9 +8,10 @@ Andina.
 ## Se aceptan contribuciones
 
 ## Resumen
-Este [resumen](Resumen.md) contiene una síntesis de los temas vistos en el cuatrimestre. Este fue elaborado por @curambar
+Este [Resumen](https://github.com/INGCOM-UNRN-PII/apunte_catedra) contiene una síntesis de los temas vistos en el cuatrimestre. Este fue elaborado por [curambar](https://github.com/curambar) y [SGaiero](https://github.com/SGaiero). **¡acepta pull requests!**
 
-Esta mas ampliado [Apunte Cátedra](https://github.com/INGCOM-UNRN-PII/apunte_catedra) ¡acepta pull requests!
+También esta disponible esta guía de uso de Lanterna, una librería de Interfaz de texto por Consola.
+[curambar/TutorialLanterna](https://github.com/curambar/TutorialLanterna)
 
 ## [Grabaciones de las clases](https://www.youtube.com/playlist?list=PLnCeTGruNF6mveEBpfF2vXorYLLMAN9f7)
 Los videos en Youtube con las grabaciones de las clases.
@@ -37,7 +38,7 @@ Los videos en Youtube con las grabaciones de las clases.
 
 [Programación 2 - 2025-04-09 - Clase 9](https://www.youtube.com/watch?v=fXg7dTV-N6U)
 
-[Programación 2 - 2025-04-11 - Clase 10](https://www.youtube.com/watch?v=RobomvbQ8ys) (Gracias @Tilation por la grabación)
+[Programación 2 - 2025-04-11 - Clase 10](https://www.youtube.com/watch?v=RobomvbQ8ys) (Gracias [Tilation](https://github.com/Tilation) por la grabación)
 
 [Programación 2 - 2025-04-16 - Clase 11](https://www.youtube.com/watch?v=s-BwintBqAk)
 
@@ -55,7 +56,7 @@ Los videos en Youtube con las grabaciones de las clases.
 
 [Programación 2 - 2025-05-16 - Clase 18](https://www.youtube.com/watch?v=FoohZkw2CgA)
 
-[P2 Interfaces Gráficas con Java Swing](https://www.youtube.com/watch?v=arQEORtEKG4) (@mmariguin-unrn)
+[P2 Interfaces Gráficas con Java Swing](https://www.youtube.com/watch?v=arQEORtEKG4) De [mmariguin-unrn](https://github.com/mmariguin-unrn)
 
 [Programación 2 - 2025-05-22 - Clase 19](https://www.youtube.com/watch?v=u4ggnt6hebw)
 
