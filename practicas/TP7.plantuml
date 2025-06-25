@@ -1,0 +1,57 @@
+@startuml
+!theme plain
+skinparam classAttributeIconSize 0
+
+abstract class Operacion{
+ {abstract} + calcular():long
+ {abstract} +toString():String
+}
+
+abstract class OperacionUnaria{
+ {abstract} +calcular()
+ +toString()
+}
+
+abstract class OperacionBinaria{
+ {abstract} +calcular()
+ +toString()
+}
+
+abstract class OperacionMultiple{
+ +void agregar(Operacion op)
+ {abstract} +calcular()
+ +toString()
+}
+
+class Numero{
+ +calcular()
+ +toString()
+}
+
+Operacion <|-- Numero
+Numero <|-- Variable
+Numero <|-- Constante
+Numero <|-- Aleatorio
+
+Operacion <|-- OperacionBinaria
+OperacionBinaria <|-- Suma
+OperacionBinaria <|-- Resta
+OperacionBinaria <|-- Multiplicacion
+OperacionBinaria <|-- Division
+OperacionBinaria <|-- Resto
+OperacionBinaria <|-- Exponenciacion
+
+Operacion <|-- OperacionUnaria
+OperacionUnaria <|-- Invertir
+OperacionUnaria <|-- ValorAbsoluto
+OperacionUnaria <|-- Incremento
+OperacionUnaria <|-- Decremento
+
+Operacion <|-- OperacionMultiple
+OperacionMultiple <|-- Minimo
+OperacionMultiple <|-- Maximo
+OperacionMultiple <|-- SumaMultiple
+OperacionMultiple <|-- RestaMultiple
+OperacionMultiple <|-- Promedio
+OperacionMultiple <|-- Contar
+@enduml
