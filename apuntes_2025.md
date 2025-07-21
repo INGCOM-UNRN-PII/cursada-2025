@@ -1,5 +1,8 @@
 # Cuestiones de estilo y correcciones generales
 
+Una salvedad a quienes lleguen acá para estudiar para la materia, tengan en cuenta que entran todas las reglas,
+incluyendo las que estan en la sección borrador.
+
 ## `0x0000` - Sin errores de ortografía y apliquen formato markdown donde sea posible
 
 Usen el [apunte markdown](https://github.com/INGCOM-UNRN-PII/cursada-2025/blob/main/biblio-secundaria/markdown.pdf)
